@@ -4,6 +4,8 @@ Among many things, I like history, chess and mountains.
 
 In the world of programming, I work with embedded C and C++. Other than that I do Java, with Python on the side. With some experience in PHP, HTML, CSS, JavaScript and SQL.
 
+Combined with embedded programming, I work in direct involvement with electronics.
+
 <!--
 **borrelunde/borrelunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
